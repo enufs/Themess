@@ -1,0 +1,24 @@
+/**
+ * @name Minimal
+ * @author Tropical#8908, Hammock#3110
+ * @version 3.0.0
+ * @description A cold, dark & frosty theme.
+ * @source https://github.com/DiscordStyles/DarkMatter/
+ * @BDEditor Dark Matter
+*/
+
+@import url('https://DiscordStyles.github.io/DarkMatter/src/base.css');
+
+:root {
+  --background-image: url('https://e1.pxfuel.com/desktop-wallpaper/756/1004/desktop-wallpaper-dark-ultra-minimalist.jpg');
+  --home-image: url('https://i.imgur.com/233d55Y.gif');
+  --accent: 255,255,255;
+  --accent-alt: 12,12,12;
+  --background-solid: #161921;
+  --background-solid-dark: #101218;
+  --background-solid-darker: #0c0e12;
+}
+
+/* Any custom CSS below here */
+
+
